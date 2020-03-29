@@ -67,3 +67,13 @@
 ◗ 5. Mark each paragraph in the article using the p element. Align and indent your code to make it easier to read. 
 ◗ 6. Directly after the <h1>Catering</h1> tag, insert an inline image using  ct_photo2.png as the source and an empty text string for the alt attribute.
 -->
+
+<!--To create the Contact Us page: 
+◗ 1. Open the ct_contact_txt.html file from the html01  tutorial folder in your HTML editor. Enter your name and the date in the comment section and save the file as ct_contact.html. Note that this page is linked to two style sheets that Sajja created. 
+◗ 2. Go to the ct_pages.txt file in your text editor.
+◗  3. Copy the Contact Us section in the text file (excluding the title). 
+◗ 4. Return to the ct_contact.html file in your HTML editor and paste the copied text directly after the <h1>Contact Us</h1> tag. 
+◗ 5. Enclose the introductory paragraph within a set of opening and closing <p> tags to mark it as a paragraph. 
+◗ 6. Enclose the three lines containing the street address within a set of opening and closing <address> tags to mark that content as an address. Insert the <br /> tag at the end of the first two lines to create a line break between the name of the restaurant and the street address. 
+◗ 7. Mark the last two lines as paragraphs using the p element. Figure 1-30 highlights the marked up code for Curbside Thai’s contact information.
+-->
