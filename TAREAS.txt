@@ -99,3 +99,19 @@
  image: <img src=”ct_map.png” alt=”” />
 
 -->
+
+<!--To Create a Navigation List: 
+◗ 1. Open the ct_about.html file in your HTML editor if it is not already open. 
+◗ 2. Go to the body header and, directly below the inline image for the Curbside 
+Thai logo, insert the following navigation list: 
+<nav>    
+    <ul>       
+        <li>About</li>      
+        <li>Locations</li>      
+        <li>Menu</li>       
+        <li>Reviews</li>       
+        <li>Catering</li>       
+        <li>Contact</li>    
+    </ul> 
+</nav> 
+-->
