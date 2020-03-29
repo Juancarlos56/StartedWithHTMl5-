@@ -86,3 +86,16 @@
 ◗ 5. Mark the name of each menu item using the dt element. Mark the 
  corresponding description using the dd element. Indent your code to make it easier to read and interpret. 
 -->
+
+<!--To Create a Page of Times and Locations: 
+◗ 1. Open the ct_locations_txt.html file from the html01  tutorial folder in your HTML editor. Enter your name and the date in the comment section and save the file as ct_locations.html. 
+◗ 2. Return to the ct_pages.txt file in your text editor and copy the four locations from the Today’s Locations section. 
+◗ 3. Return to the ct_locations.html file in your HTML editor and paste the 
+ copied text directly after the <h1>Today's Locations</h1> tag. 
+ ◗ 4. Mark the entire list of times and locations using the dl element. Mark each time using the dt element and each location using the dd element. Indent your code to make it easier to read and interpret. 
+ ◗ 5. In order to distinguish this description list from other description lists in the website, add the attribute id=”ct_locations” to the opening <dl> tag. 
+ ◗ 6. Sajja has a map that he wants displayed alongside the list of times and 
+ locations. Directly after the h1 element within the article element, insert the following inline 
+ image: <img src=”ct_map.png” alt=”” />
+
+-->
