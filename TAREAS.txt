@@ -38,3 +38,10 @@
 ◗ 2. Directly before the closing </head> tag, insert the following link elements: <link href=”ct_base.css” rel=”stylesheet” /> <link href=”ct_layout2.css” rel=”stylesheet” />
 
 -->
+
+<!--To insert a character encoding reference number and an entity reference: 
+◗ 1. Return to the ct_about.html file in your HTML editor. 
+◗ 2. Go to the footer element and insert the character encoding number &#8226; directly after the word Thai and after the postal code 28201. Insert the  character reference &nbsp; directly before the postal code. Figure 1-21 highlights the character codes and references added to the footer.
+
+
+-->
