@@ -141,4 +141,14 @@ Thai logo, insert the following navigation list:
 ◗ 1. Return to the ct_about.html file in your HTML editor. 
 ◗ 2. Mark the image in the body header as a hyperlink by changing the HTML code to \
 <a href=”ct_start.html”><img src=”ct_logo2.png”  alt=”Curbside Thai” /></a> 
-Figure 1-39 highlights the code to change the logo image to a hypertext link -->
+Figure 1-39 highlights the code to change the logo image to a hypertext link 
+-->
+
+<!--To copy and paste the hypertext links: 
+◗ 1. Return to the ct_about.html file in your HTML editor. 
+◗ 2. Copy the entire content of the page header from the opening <header> tag through to the closing </header> tag, including the revised code for the company logo and navigation list.
+HTML and CSS | Tutorial 1 Getting Started with HTML5HTML 60
+◗ 3. Go to the ct_locations.html file in your HTML editor. Paste the copied HTML code, replacing the previous page header in this document. Save your changes to the file. 
+◗ 4. Repeat the previous step for the ct_menu.html, ct_reviews.html,  ct_catering.html, and ct_contact.html files, replacing the body header in each of those documents with the revised header from ct_about.html. Save your changes to each file. 
+◗ 5. Reopen the ct_locations.html file in your browser and verify that you can jump from one page to another by clicking items in the navigation list at the top of each page. Also verify that you can jump to the Startup page at any time by clicking the Curbside Thai logo.
+-->
