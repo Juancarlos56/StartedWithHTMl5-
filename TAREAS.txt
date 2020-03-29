@@ -31,3 +31,10 @@
 ◗ 2. In the second paragraph, enclose the phrase, Curbside Thai will deliver within a set of opening and closing <em> tags to emphasize this text. 
 ◗ 3. Go the third paragraph and mark Carolina Traveler using the cite element and then mark the extended quote, the finest Asian food on or off the streets of Charlotte, using the q element. 
 -->
+
+
+<!--To link an HTML document to a style sheet: 
+◗ 1. Return to the ct_about.html file in your HTML editor. 
+◗ 2. Directly before the closing </head> tag, insert the following link elements: <link href=”ct_base.css” rel=”stylesheet” /> <link href=”ct_layout2.css” rel=”stylesheet” />
+
+-->
