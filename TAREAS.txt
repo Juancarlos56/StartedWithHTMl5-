@@ -25,3 +25,9 @@
 ◗ 5. Directly after the <h1>About Us</h1> line within the page article, insert a new blank line and paste the text you copied. 
 ◗ 6. Enclose each of the three paragraphs of pasted content between an opening <p> tag and a closing </p> tag. Indent the code within the article element to make the code easier to read. 
 -->
+
+<!--To apply text-level elements to a page: 
+◗ 1. Go to the first paragraph within the page article and enclose the opening words Curbside Thai within a set of opening and closing <strong> tags. You use the <strong> tags when you want to strongly reinforce the importance of the text, such as the restaurant name, for the reader. 
+◗ 2. In the second paragraph, enclose the phrase, Curbside Thai will deliver within a set of opening and closing <em> tags to emphasize this text. 
+◗ 3. Go the third paragraph and mark Carolina Traveler using the cite element and then mark the extended quote, the finest Asian food on or off the streets of Charlotte, using the q element. 
+-->
