@@ -152,3 +152,9 @@ HTML and CSS | Tutorial 1 Getting Started with HTML5HTML 60
 ◗ 4. Repeat the previous step for the ct_menu.html, ct_reviews.html,  ct_catering.html, and ct_contact.html files, replacing the body header in each of those documents with the revised header from ct_about.html. Save your changes to each file. 
 ◗ 5. Reopen the ct_locations.html file in your browser and verify that you can jump from one page to another by clicking items in the navigation list at the top of each page. Also verify that you can jump to the Startup page at any time by clicking the Curbside Thai logo.
 -->
+
+<!--To link to an e-mail address: 
+◗ 1. Go to the ct_contact.html file in your HTML editor. 
+◗ 2. Change the Curbside Thai e-mail address into the following mailto  hypertext 
+link: <a href=”mailto:curbside.thai@example.com”>    curbside.thai@example.com </a> Note that this is a fictional e-mail address. If you want to test this link, change the URL to a link pointing to your own e-mail address. Figure 1-42 highlights the hypertext code to the linked e-mail address.
+-->
