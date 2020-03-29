@@ -58,3 +58,12 @@
 ◗ 5. Enclose each review within a set of <blockquote> tags. Enclose each paragraph within each review with a set of <p> tags. Align and indent your code to make it easier to read. Figure 1-26 highlights the newly added code in the document.
 6. Save your changes to the file and then open the ct_reviews.html file in your browser. Figure 1-27 shows the appearance of the restaurant review quotes using Sajja’s style sheet.
 -->
+
+<!--To create the Catering page: 
+◗ 1. Open the ct_catering_txt.html file from the html01  tutorial folder in your HTML editor. Enter your name and the date in the comment section and save the file as ct_catering.html. 
+◗ 2. Return to the ct_pages.txt file in your text editor. 
+◗ 3. Locate the section containing information about Curbside Thai’s catering service and copy the four paragraphs of information. 
+◗ 4. Return to the ct_catering.html file in your HTML editor and paste the copied text directly after the <h1>Catering</h1> line. 
+◗ 5. Mark each paragraph in the article using the p element. Align and indent your code to make it easier to read. 
+◗ 6. Directly after the <h1>Catering</h1> tag, insert an inline image using  ct_photo2.png as the source and an empty text string for the alt attribute.
+-->
