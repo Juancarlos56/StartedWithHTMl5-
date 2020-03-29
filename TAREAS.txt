@@ -115,3 +115,24 @@ Thai logo, insert the following navigation list:
     </ul> 
 </nav> 
 -->
+
+<!--To create hypertext links: 
+◗ 1. Return to the ct_about.html file in your HTML editor.
+◗ 2. Mark the first entry as a hypertext link pointing to ct_about.html file by changing the list item to
+ <a href=”ct_about.html”>About</a> 
+◗ 3. Change the code of the second list item to 
+<a href=”ct_locations.html”>Locations</a> 
+◗ 4. Continuing in the same fashion, change the Menu entry to a link pointing to the ct_menu.html file, the Reviews entry to a link pointing to the ct_reviews.html file, the Catering entry to a link pointing to the ct_catering.html file, and the Contact entry to a link pointing to the ct_contact.html file. Figure 1-38 highlights the newly added code that changes all of the items in the navigation list to hypertext links.
+<nav>    
+    <ul>       
+        <li><a href=”ct_about.html”>About</a> </li>      
+        <li><a href=”ct_locations.html”>Locations</a> </li>      
+        <li><a href=”ct_menu.html”>Menu</a> </li>       
+        <li><a href=”ct_reviews.html”>Reviews</a></li>       
+        <li><a href=”ct_catering.html”>Catering</a></li>       
+        <li><a href=”ct_contact.html”>Contact</a></li>    
+    </ul> 
+</nav> 
+◗ 5. Save your changes to the file and then reopen the ct_about.html file in your browser. 
+◗ 6. Click each of the six navigation list entries and verify that the browser loads the corresponding web page. Use the Back button on your browser to return to the About Curbside Thai page after you view each document.
+-->
