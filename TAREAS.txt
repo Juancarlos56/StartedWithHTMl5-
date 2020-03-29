@@ -158,3 +158,10 @@ HTML and CSS | Tutorial 1 Getting Started with HTML5HTML 60
 ◗ 2. Change the Curbside Thai e-mail address into the following mailto  hypertext 
 link: <a href=”mailto:curbside.thai@example.com”>    curbside.thai@example.com </a> Note that this is a fictional e-mail address. If you want to test this link, change the URL to a link pointing to your own e-mail address. Figure 1-42 highlights the hypertext code to the linked e-mail address.
 -->
+
+<!--To link to a phone number: 
+◗ 1. Return to the ct_contact.html file in your HTML editor. 
+◗ 2. Change the Curbside Thai phone number into the following hypertext link:
+ <a href=”tel:+17045551151”>    (704) 555-1151 </a> 
+ Once again this number is fictional; you can change the URL to a link pointing to your own phone number if you want to test the link on a mobile device. Figure 1-43 highlights the hypertext code of the telephone link.
+-->
