@@ -136,3 +136,9 @@ Thai logo, insert the following navigation list:
 ◗ 5. Save your changes to the file and then reopen the ct_about.html file in your browser. 
 ◗ 6. Click each of the six navigation list entries and verify that the browser loads the corresponding web page. Use the Back button on your browser to return to the About Curbside Thai page after you view each document.
 -->
+
+<!--To mark an image as a hypertext link: 
+◗ 1. Return to the ct_about.html file in your HTML editor. 
+◗ 2. Mark the image in the body header as a hyperlink by changing the HTML code to \
+<a href=”ct_start.html”><img src=”ct_logo2.png”  alt=”Curbside Thai” /></a> 
+Figure 1-39 highlights the code to change the logo image to a hypertext link -->
