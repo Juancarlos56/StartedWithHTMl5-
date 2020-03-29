@@ -49,3 +49,12 @@
  ◗ 2. Go to the header element and replace the h1 element with the tag <img src=”ct_logo2.png” alt=”Curbside Thai” /> 
  ◗ 3. Go to the article element and, directly after the h1 element, insert the tag <img src=”ct_photo1.png” alt=”” />
 -->
+
+<!--To create the reviews page: 
+◗ 1. Open the ct_reviews_txt.html file from the html01  tutorial folder in your HTML editor. Enter your name and the date in the comment section and save the file as ct_reviews.html. 
+◗ 2. Go to the ct_pages.txt file in your text editor. 
+◗ 3. Locate the section containing the restaurant reviews and copy the text of the four reviews and awards.
+◗ 4. Return to the ct_reviews.html file in your HTML editor and paste the text of the four reviews directly after the <h1>Reviews</h1> line. 
+◗ 5. Enclose each review within a set of <blockquote> tags. Enclose each paragraph within each review with a set of <p> tags. Align and indent your code to make it easier to read. Figure 1-26 highlights the newly added code in the document.
+6. Save your changes to the file and then open the ct_reviews.html file in your browser. Figure 1-27 shows the appearance of the restaurant review quotes using Sajja’s style sheet.
+-->
