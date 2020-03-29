@@ -1,0 +1,27 @@
+<!--To insert the document title: ◗
+     1. Directly after the opening <head> tag, insert the following title element, indented to make the code easier to read. 
+-->
+
+<!--To insert metadata: 
+    ◗ 1. Directly after the opening <head> tag, insert the following meta elements, indented to make the code easier to read:
+-->
+
+<!--To add a comment to the document: ◗ 
+        1. Return to the ct_about.html file in your HTML editor. ◗
+        2. Directly after the opening <head> tag, insert the following comment text, indented to make the code easier to read: where your name is your name and the date is the current date. Figure 1-10 highlights the newly added comment in the file.
+
+-->
+
+<!--To define the sections in the page body: 
+    ◗ 1. If you took a break after the previous session, return to the ct_about.html file in your HTML editor. 
+    ◗ 2. Directly after the opening <body> tag, insert the following HTML code, indented to make the code easier to read
+-->
+
+<!--To group the page text into paragraphs: 
+◗ 1. Use a text editor to open the ct_pages.txt file from the html01  tutorial folder. 
+◗ 2. Select and copy the three paragraphs of text directly after the About Us title. 
+◗ 3. Close the file, but do not save any changes you may have inadvertently made to the document. 
+◗ 4. Return to the ct_about.html file in your HTML editor. 
+◗ 5. Directly after the <h1>About Us</h1> line within the page article, insert a new blank line and paste the text you copied. 
+◗ 6. Enclose each of the three paragraphs of pasted content between an opening <p> tag and a closing </p> tag. Indent the code within the article element to make the code easier to read. 
+-->
