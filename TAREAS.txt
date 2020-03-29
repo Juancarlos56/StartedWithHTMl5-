@@ -77,3 +77,12 @@
 ◗ 6. Enclose the three lines containing the street address within a set of opening and closing <address> tags to mark that content as an address. Insert the <br /> tag at the end of the first two lines to create a line break between the name of the restaurant and the street address. 
 ◗ 7. Mark the last two lines as paragraphs using the p element. Figure 1-30 highlights the marked up code for Curbside Thai’s contact information.
 -->
+
+<!--To Complete the Menu Page: 
+◗ 1. Open the ct_menu_txt.html file from the html01  tutorial folder in your HTML editor. Enter your name and the date in the comment section and save the file as ct_menu.html. 
+◗ 2. Open the ct_pages.txt file in your text editor if it is not already open and copy the five menu items listed in the Mobile Menu section. 
+◗ 3. Return to the ct_menu.html file in your HTML editor and paste the copied text directly after the <h1>Mobile Menu</h1> tag. 
+◗ 4. Enclose the entire menu within an opening and closing <dl> tag. 
+◗ 5. Mark the name of each menu item using the dt element. Mark the 
+ corresponding description using the dd element. Indent your code to make it easier to read and interpret. 
+-->
